@@ -11,3 +11,9 @@ I AM IN FINAL YEAR OF ENGINEERING FROM GH RAISONI COLLGE OF ENGINEERING NAGPUR
 - Become a full stack developer
 - Contribute to open source
 - Build my own product
+
+## Favorite Technologies
+- HTML
+- CSS
+- JavaScript
+- React
