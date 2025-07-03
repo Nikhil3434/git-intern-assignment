@@ -17,3 +17,8 @@ I AM IN FINAL YEAR OF ENGINEERING FROM GH RAISONI COLLGE OF ENGINEERING NAGPUR
 - CSS
 - JavaScript
 - React
+
+## Skills I’m Learning or Want to Learn
+- Git & GitHub
+- React
+- DevOps
